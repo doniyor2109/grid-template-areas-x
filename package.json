@@ -1,8 +1,8 @@
 {
-  "name": "grid-template-x",
+  "name": "grid-template-areas-x",
   "version": "1.0.1",
   "main": "index.js",
-  "repository": "git@github.com:doniyor2109/grid-template-x.git",
+  "repository": "git@github.com:doniyor2109/grid-template-areas-x.git",
   "license": "MIT",
   "files": [
     "index.js"
