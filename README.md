@@ -1,4 +1,4 @@
-# Template Grid Areas x
+# grid-template-areas-x
 
 Utility for Template Grid Areas
 
