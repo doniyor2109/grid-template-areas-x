@@ -18,7 +18,7 @@ yarn add grid-template-areas-x
 ```jsx
 const x = require("grid-template-areas-x");
 
-cosnt style = css`
+const style = css`
     grid-template-areas: ${x`
       'header${2} nav${4}'
       'side${4} content${2}'
@@ -27,7 +27,7 @@ cosnt style = css`
 
 // Same as:
 
-cosnt style = css`
+const style = css`
     grid-template-areas: `
       'header header nav nav nav nav'
       'side side side side content content'
