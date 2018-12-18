@@ -23,10 +23,16 @@ cosnt style = css`
       'header${2} nav${4}'
       'side${4} content${2}'
     `};
-`
-// Outputs:
- 'header header nav nav nav nav'
- 'side side side side content content'
+`;
+
+// Same as:
+
+cosnt style = css`
+    grid-template-areas: `
+      'header header nav nav nav nav'
+      'side side side side content content'
+    `;
+`;
 ```
 
 ## License
