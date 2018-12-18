@@ -1,0 +1,1 @@
+export function x(template: TemplateStringsArray, ...args: number[]): string;

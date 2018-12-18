@@ -1,0 +1,13 @@
+{
+  "name": "grid-template-x",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:doniyor2109/grid-template-x.git",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
