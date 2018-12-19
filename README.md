@@ -32,10 +32,10 @@ const style = css`
 // Same as:
 
 const style = css`
-    grid-template-areas: `
+    grid-template-areas:
       'header header nav nav nav nav'
       'side side side side content content'
-    `;
+    ;
 `;
 ```
 
